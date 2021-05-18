@@ -14,6 +14,8 @@
 		64DA15A22651C3ED005389F7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64DA15A12651C3ED005389F7 /* Preview Assets.xcassets */; };
 		64DA15AD2651C3ED005389F7 /* SwiftUI_WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DA15AC2651C3ED005389F7 /* SwiftUI_WeatherTests.swift */; };
 		64DA15B82651C3ED005389F7 /* SwiftUI_WeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64DA15B72651C3ED005389F7 /* SwiftUI_WeatherUITests.swift */; };
+		64E7BE3D26538BE300581827 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 64E7BE3B26538BE300581827 /* README.md */; };
+		64E7BE3E26538BE300581827 /* LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 64E7BE3C26538BE300581827 /* LICENSE.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		64DA15B32651C3ED005389F7 /* SwiftUI-WeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SwiftUI-WeatherUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		64DA15B72651C3ED005389F7 /* SwiftUI_WeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_WeatherUITests.swift; sourceTree = "<group>"; };
 		64DA15B92651C3ED005389F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64E7BE3B26538BE300581827 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		64E7BE3C26538BE300581827 /* LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = LICENSE.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		64DA158E2651C3EC005389F7 = {
 			isa = PBXGroup;
 			children = (
+				64E7BE3C26538BE300581827 /* LICENSE.md */,
+				64E7BE3B26538BE300581827 /* README.md */,
 				64DA15992651C3EC005389F7 /* SwiftUI-Weather */,
 				64DA15AB2651C3ED005389F7 /* SwiftUI-WeatherTests */,
 				64DA15B62651C3ED005389F7 /* SwiftUI-WeatherUITests */,
@@ -236,6 +242,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64E7BE3E26538BE300581827 /* LICENSE.md in Resources */,
+				64E7BE3D26538BE300581827 /* README.md in Resources */,
 				64DA15A22651C3ED005389F7 /* Preview Assets.xcassets in Resources */,
 				64DA159F2651C3ED005389F7 /* Assets.xcassets in Resources */,
 			);
